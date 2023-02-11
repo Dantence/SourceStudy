@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SourceStudy.iml" filepath="$PROJECT_DIR$/.idea/SourceStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-base/SourceStudy-base.iml" filepath="$PROJECT_DIR$/SourceStudy-base/SourceStudy-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-parent/SourceStudy-parent.iml" filepath="$PROJECT_DIR$/SourceStudy-parent/SourceStudy-parent.iml" />
+    </modules>
+  </component>
+</project>
