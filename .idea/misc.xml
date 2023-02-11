@@ -5,8 +5,17 @@
       <list>
         <option value="$PROJECT_DIR$/SourceStudy-parent/pom.xml" />
         <option value="$PROJECT_DIR$/SourceStudy-base/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceStudy-content/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceStudy-content/SouceStudy-content-model/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceStudy-content/SourceStudy-api/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-api/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceStudy-generator/pom.xml" />
       </list>
     </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-api/src/main/resources/application.properties" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="corretto-16" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-content/SouceStudy-content-model/SouceStudy-content-model.iml" filepath="$PROJECT_DIR$/SourceStudy-content/SouceStudy-content-model/SouceStudy-content-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SourceStudy.iml" filepath="$PROJECT_DIR$/.idea/SourceStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-base/SourceStudy-base.iml" filepath="$PROJECT_DIR$/SourceStudy-base/SourceStudy-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content.iml" filepath="$PROJECT_DIR$/SourceStudy-content/SourceStudy-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-api/SourceStudy-content-api.iml" filepath="$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-api/SourceStudy-content-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-service/SourceStudy-content-service.iml" filepath="$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-service/SourceStudy-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-generator/SourceStudy-generator.iml" filepath="$PROJECT_DIR$/SourceStudy-generator/SourceStudy-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-parent/SourceStudy-parent.iml" filepath="$PROJECT_DIR$/SourceStudy-parent/SourceStudy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-api/test.iml" filepath="$PROJECT_DIR$/SourceStudy-content/SourceStudy-api/test.iml" />
     </modules>
   </component>
 </project>

@@ -2,5 +2,16 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/SourceStudy-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-content/SouceStudy-content-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-content/SouceStudy-content-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-generator/src/main/resources" charset="UTF-8" />
   </component>
 </project>

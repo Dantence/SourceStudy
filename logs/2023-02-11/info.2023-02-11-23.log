@@ -1,0 +1,6 @@
+2023-02-11 23:12:29,610 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-11 23:12:29,610 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-11 23:12:29,617 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-02-11 23:12:29,617 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-02-11 23:12:29,623 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 5 ms
+2023-02-11 23:12:29,623 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 5 ms

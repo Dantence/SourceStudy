@@ -2,22 +2,48 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="test" />
+      </profile>
+      <profile name="Annotation profile for SourceStudy-generator" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar" />
+        </processorPath>
+        <module name="SourceStudy-content-api" />
+        <module name="SourceStudy-content-service" />
         <module name="SourceStudy-base" />
+        <module name="SouceStudy-content-model" />
+        <module name="SourceStudy-generator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SouceStudy-content-model" target="1.8" />
       <module name="SourceStudy-base" target="1.8" />
+      <module name="SourceStudy-content" target="1.8" />
+      <module name="SourceStudy-content-api" target="1.8" />
+      <module name="SourceStudy-content-service" target="1.8" />
+      <module name="SourceStudy-generator" target="1.8" />
       <module name="SourceStudy-parent" target="1.8" />
+      <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SouceStudy-content-model" options="-parameters" />
       <module name="SourceStudy-base" options="-parameters" />
+      <module name="SourceStudy-content" options="" />
+      <module name="SourceStudy-content-api" options="-parameters" />
+      <module name="SourceStudy-content-service" options="-parameters" />
+      <module name="SourceStudy-generator" options="-parameters" />
       <module name="SourceStudy-parent" options="" />
+      <module name="test" options="-parameters" />
     </option>
   </component>
 </project>
