@@ -9,7 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="test" />
       </profile>
-      <profile name="Annotation profile for SourceStudy-generator" enabled="true">
+      <profile name="Annotation profile for SourceStudy-content" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -18,8 +18,11 @@
         </processorPath>
         <module name="SourceStudy-content-api" />
         <module name="SourceStudy-content-service" />
-        <module name="SourceStudy-base" />
+        <module name="SourceStudy-system-model" />
+        <module name="SourceStudy-system-service" />
+        <module name="SourceStudy-system-api" />
         <module name="SouceStudy-content-model" />
+        <module name="SourceStudy-base" />
         <module name="SourceStudy-generator" />
       </profile>
     </annotationProcessing>
@@ -31,6 +34,10 @@
       <module name="SourceStudy-content-service" target="1.8" />
       <module name="SourceStudy-generator" target="1.8" />
       <module name="SourceStudy-parent" target="1.8" />
+      <module name="SourceStudy-system" target="1.8" />
+      <module name="SourceStudy-system-api" target="1.8" />
+      <module name="SourceStudy-system-model" target="1.8" />
+      <module name="SourceStudy-system-service" target="1.8" />
       <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -43,6 +50,9 @@
       <module name="SourceStudy-content-service" options="-parameters" />
       <module name="SourceStudy-generator" options="-parameters" />
       <module name="SourceStudy-parent" options="" />
+      <module name="SourceStudy-system-api" options="-parameters" />
+      <module name="SourceStudy-system-model" options="-parameters" />
+      <module name="SourceStudy-system-service" options="-parameters" />
       <module name="test" options="-parameters" />
     </option>
   </component>

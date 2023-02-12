@@ -2,6 +2,9 @@ package com.sourcestudy.content.service;
 
 import com.sourcestudy.base.model.PageParams;
 import com.sourcestudy.base.model.PageResult;
+import com.sourcestudy.content.model.dto.AddCourseDto;
+import com.sourcestudy.content.model.dto.CourseBaseInfoDto;
+import com.sourcestudy.content.model.dto.EditCourseDto;
 import com.sourcestudy.content.model.dto.QueryCourseParamsDto;
 import com.sourcestudy.content.model.po.CourseBase;
 
@@ -16,5 +19,7 @@ public interface CourseBaseInfoService  {
 
 
     PageResult<CourseBase> queryCourseBaseList(PageParams pageParams, QueryCourseParamsDto queryCourseParamsDto);
-
+    CourseBaseInfoDto createCourseBase(Long companyId, AddCourseDto addCourseDto);
+    CourseBaseInfoDto getCourseBaseInfo(long courseId);
+    CourseBaseInfoDto updateCourseBase(Long companyId, EditCourseDto dto);
 }

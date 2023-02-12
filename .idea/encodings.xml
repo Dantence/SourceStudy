@@ -13,5 +13,11 @@
     <file url="file://$PROJECT_DIR$/SourceStudy-content/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-generator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-service/src/main/resources" charset="UTF-8" />
   </component>
 </project>

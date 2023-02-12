@@ -10,6 +10,10 @@
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-service/SourceStudy-content-service.iml" filepath="$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-service/SourceStudy-content-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-generator/SourceStudy-generator.iml" filepath="$PROJECT_DIR$/SourceStudy-generator/SourceStudy-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-parent/SourceStudy-parent.iml" filepath="$PROJECT_DIR$/SourceStudy-parent/SourceStudy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system.iml" filepath="$PROJECT_DIR$/SourceStudy-system/SourceStudy-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-api/SourceStudy-system-api.iml" filepath="$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-api/SourceStudy-system-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-model/SourceStudy-system-model.iml" filepath="$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-model/SourceStudy-system-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-service/SourceStudy-system-service.iml" filepath="$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-service/SourceStudy-system-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-api/test.iml" filepath="$PROJECT_DIR$/SourceStudy-content/SourceStudy-api/test.iml" />
     </modules>
   </component>
