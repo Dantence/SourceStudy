@@ -4,6 +4,7 @@ package com.sourcestudy.content.api;/**
  * @date 2023/2/12
  */
 
+import com.sourcestudy.content.model.dto.BindTeachplanMediaDto;
 import com.sourcestudy.content.model.dto.SaveTeachplanDto;
 import com.sourcestudy.content.model.dto.TeachplanDto;
 import com.sourcestudy.content.service.TeachplanService;
@@ -49,4 +50,17 @@ public class TeachplanController {
     public void saveTeachplan(@PathVariable Long teachPlanId){
         teachplanService.deleteTeachPlan(teachPlanId);
     }
+
+    @ApiOperation(value = "课程计划和媒资信息绑定")
+    @PostMapping("/teachplan/association/media")
+    void associationMedia(@RequestBody BindTeachplanMediaDto bindTeachplanMediaDto){
+        teachplanService.associationMedia(bindTeachplanMediaDto);
+    }
+
+    @ApiOperation(value = "课程计划和媒资信息解除绑定")
+    @DeleteMapping("/teachplan/association/media/{teachPlanId}/{mediaId}")
+    void delAssociationMedia(@PathVariable Long teachPlanId,@PathVariable String mediaId){
+        teachplanService.delAassociationMedia(teachPlanId,mediaId);
+    }
+
 }

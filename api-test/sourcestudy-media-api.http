@@ -1,0 +1,9 @@
+### 上传文件
+POST {{gateway_host}}/media/upload/coursefile
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="filedata"; filename="university.sql"
+Content-Type: application/octet-stream
+
+< D:/myfile/其他文件/tmp/university.sql

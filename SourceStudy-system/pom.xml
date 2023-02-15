@@ -15,7 +15,7 @@
 
     <modules>
         <module>SourceStudy-system-api</module>
-<!--        <module>SourceStudy-system-service</module>-->
+        <module>SourceStudy-system-service</module>
         <module>SourceStudy-system-model</module>
     </modules>
 </project>

@@ -27,7 +27,7 @@ import java.util.List;
 public class CourseCategoryController {
 
     @Autowired
-    private CourseCategoryService courseCategoryService;
+    CourseCategoryService courseCategoryService;
 
     @GetMapping("/course-category/tree-nodes")
     public List<CourseCategoryTreeDto> queryTreeNodes() {

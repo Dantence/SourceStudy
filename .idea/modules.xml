@@ -8,7 +8,12 @@
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content.iml" filepath="$PROJECT_DIR$/SourceStudy-content/SourceStudy-content.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-api/SourceStudy-content-api.iml" filepath="$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-api/SourceStudy-content-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-service/SourceStudy-content-service.iml" filepath="$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-service/SourceStudy-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-gateway/SourceStudy-gateway.iml" filepath="$PROJECT_DIR$/SourceStudy-gateway/SourceStudy-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-generator/SourceStudy-generator.iml" filepath="$PROJECT_DIR$/SourceStudy-generator/SourceStudy-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-media/SourceStudy-media.iml" filepath="$PROJECT_DIR$/SourceStudy-media/SourceStudy-media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-api/SourceStudy-media-api.iml" filepath="$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-api/SourceStudy-media-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-model/SourceStudy-media-model.iml" filepath="$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-model/SourceStudy-media-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-service/SourceStudy-media-service.iml" filepath="$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-service/SourceStudy-media-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-parent/SourceStudy-parent.iml" filepath="$PROJECT_DIR$/SourceStudy-parent/SourceStudy-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system.iml" filepath="$PROJECT_DIR$/SourceStudy-system/SourceStudy-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-api/SourceStudy-system-api.iml" filepath="$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-api/SourceStudy-system-api.iml" />

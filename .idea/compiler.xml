@@ -16,11 +16,15 @@
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar" />
         </processorPath>
-        <module name="SourceStudy-content-api" />
         <module name="SourceStudy-content-service" />
+        <module name="SourceStudy-media-api" />
+        <module name="SourceStudy-content-api" />
+        <module name="SourceStudy-media-model" />
         <module name="SourceStudy-system-model" />
         <module name="SourceStudy-system-service" />
         <module name="SourceStudy-system-api" />
+        <module name="SourceStudy-media-service" />
+        <module name="SourceStudy-gateway" />
         <module name="SouceStudy-content-model" />
         <module name="SourceStudy-base" />
         <module name="SourceStudy-generator" />
@@ -32,7 +36,12 @@
       <module name="SourceStudy-content" target="1.8" />
       <module name="SourceStudy-content-api" target="1.8" />
       <module name="SourceStudy-content-service" target="1.8" />
+      <module name="SourceStudy-gateway" target="1.8" />
       <module name="SourceStudy-generator" target="1.8" />
+      <module name="SourceStudy-media" target="1.8" />
+      <module name="SourceStudy-media-api" target="1.8" />
+      <module name="SourceStudy-media-model" target="1.8" />
+      <module name="SourceStudy-media-service" target="1.8" />
       <module name="SourceStudy-parent" target="1.8" />
       <module name="SourceStudy-system" target="1.8" />
       <module name="SourceStudy-system-api" target="1.8" />
@@ -45,11 +54,17 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SouceStudy-content-model" options="-parameters" />
       <module name="SourceStudy-base" options="-parameters" />
-      <module name="SourceStudy-content" options="" />
+      <module name="SourceStudy-content" options="-parameters" />
       <module name="SourceStudy-content-api" options="-parameters" />
       <module name="SourceStudy-content-service" options="-parameters" />
+      <module name="SourceStudy-gateway" options="-parameters" />
       <module name="SourceStudy-generator" options="-parameters" />
-      <module name="SourceStudy-parent" options="" />
+      <module name="SourceStudy-media" options="-parameters" />
+      <module name="SourceStudy-media-api" options="-parameters" />
+      <module name="SourceStudy-media-model" options="-parameters" />
+      <module name="SourceStudy-media-service" options="-parameters" />
+      <module name="SourceStudy-parent" options="-parameters" />
+      <module name="SourceStudy-system" options="-parameters" />
       <module name="SourceStudy-system-api" options="-parameters" />
       <module name="SourceStudy-system-model" options="-parameters" />
       <module name="SourceStudy-system-service" options="-parameters" />

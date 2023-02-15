@@ -14,6 +14,8 @@
         <option value="$PROJECT_DIR$/SourceStudy-system/pom.xml" />
         <option value="$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-model/pom.xml" />
         <option value="$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-service/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceStudy-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/SourceStudy-media/pom.xml" />
       </list>
     </option>
   </component>

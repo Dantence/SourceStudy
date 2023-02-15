@@ -11,13 +11,27 @@
     <file url="file://$PROJECT_DIR$/SourceStudy-content/SourceStudy-content-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-content/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-gateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-generator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-media/SourceStudy-media-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-media/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-media/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-parent/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-model/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SourceStudy-system/SourceStudy-system-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SourceStudy-system/src/main/resources" charset="UTF-8" />
   </component>
 </project>

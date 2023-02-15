@@ -1,0 +1,29 @@
+#微服务配置
+spring:
+  application:
+    name: media-api
+  cloud:
+    nacos:
+      server-addr: 101.43.234.193:8848
+      discovery:
+        namespace: ${spring.profiles.active}
+        group: SourceStudy
+      config:
+        namespace: ${spring.profiles.active}
+        group: SourceStudy
+        file-extension: yaml
+        refresh-enabled: true
+        extension-configs:
+          - data-id: media-service-${spring.profiles.active}.yaml
+            group: SourceStudy
+            refresh: true
+        shared-configs:
+          - data-id: swagger-${spring.profiles.active}.yaml
+            group: SourceStudy-common
+            refresh: true
+          - data-id: logging-${spring.profiles.active}.yaml
+            group: SourceStudy-common
+            refresh: true
+  profiles:
+    active: dev
+
